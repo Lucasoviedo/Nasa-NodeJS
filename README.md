@@ -10,3 +10,5 @@ In Postgres:
     - date - date - not null
     - description - text - not null
     - author - charset 
+
+Change user and password on: src/database/index.js file
